@@ -1,6 +1,5 @@
 ## GDB
-1. Set breakpoint: 
-  - break filename:<#line>
+1. Set breakpoint: break filename:<#line>
 2. run
 3. s(step): enter a subroutine
 4. n(next): advance execution to the next line
